@@ -1,0 +1,14 @@
+{
+  "name": "com.dehagge.progressbar",
+  "version": "0.1.0",
+  "displayName": "Progressbar",
+  "description": "Progressbar for unity",
+  "unity": "2019.4",
+  "author": {
+    "name": "DeHagge"
+  },
+  "gitDependencies":
+  {
+    "com.demigiant.dotween": "https://github.com/grashaar/DOTween.git"
+  }
+}

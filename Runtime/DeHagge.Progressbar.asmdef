@@ -1,0 +1,15 @@
+{
+    "name": "DeHagge.Progressbar",
+    "references": [
+        "GUID:f4f99d7af44169b43a54ccff95490c1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
