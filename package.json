@@ -9,6 +9,6 @@
   },
   "gitDependencies":
   {
-    "com.demigiant.dotween": "https://github.com/grashaar/DOTween.git"
+    "com.demigiant.dotween": "git@github.com:jnroesch/PrivateDoTween.git"
   }
 }
